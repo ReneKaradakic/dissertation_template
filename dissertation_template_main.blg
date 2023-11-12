@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation_template_main.aux
+The style file: aea.bst
+Database file #1: /home/rene/Dropbox/NHH/Literature/Literature_database.bib
+You've used 2 entries,
+            2695 wiz_defined-function locations,
+            598 strings with 4298 characters,
+and the built_in function-call counts, 16386 in all, are:
+= -- 2761
+> -- 188
+< -- 0
++ -- 1356
+- -- 60
+* -- 1489
+:= -- 3153
+add.period$ -- 14
+call.type$ -- 2
+change.case$ -- 26
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 30
+empty$ -- 86
+format.name$ -- 60
+if$ -- 2951
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 13
+num.names$ -- 22
+pop$ -- 2
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 25
+stack$ -- 0
+substring$ -- 3995
+swap$ -- 12
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 52
+width$ -- 0
+write$ -- 13

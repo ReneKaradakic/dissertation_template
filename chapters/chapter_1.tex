@@ -1,0 +1,32 @@
+\section{Section 1} \label{seclong:label3}
+
+\lipsum[1-6]
+
+\section{Section 2} \label{seclong:label2}
+
+\lipsum[1-10]
+
+
+\newpage
+\thispagestyle{empty}
+\section*{Appendices}
+
+\begin{subappendices}
+    \setcounter{table}{0}
+    \renewcommand{\thetable}{A\arabic{table}}
+    \setcounter{figure}{0}
+    \renewcommand{\thefigure}{A\arabic{figure}}
+
+    \section{Some Tables} \label{app:tables}
+    
+
+
+    \section{Some Figures} \label{app:figures}
+
+    
+
+
+
+
+
+\end{subappendices}

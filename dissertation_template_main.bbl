@@ -1,0 +1,13 @@
+
+
+% Bibstyle aea.bst version 2009.05.20
+
+\begin{thebibliography}{xx}
+
+\harvarditem[Bertrand, Mogstad \harvardand\ Mountjoy]{Marianne Bertrand, Magne Mogstad \harvardand\ Jack Mountjoy}{2021}{bertrand2021improving}
+{\bf Bertrand, Marianne, Magne Mogstad, and Jack Mountjoy.} 2021. ``Improving educational pathways to social mobility: evidence from Norway’s reform 94.'' {\em Journal of Labor Economics}, 39(4):~965--1010.
+
+\harvarditem[Black, Devereux \harvardand\ Salvanes]{Sandra~E Black, Paul~J Devereux \harvardand\ Kjell~G Salvanes}{2013}{black2013under}
+{\bf Black, Sandra~E, Paul~J Devereux, and Kjell~G Salvanes.} 2013. ``Under pressure? The effect of peers on outcomes of young adults.'' {\em Journal of Labor Economics}, 31(1):~119--153.
+
+\end{thebibliography}
